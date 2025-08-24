@@ -1,3 +1,7 @@
+# nextjs-dashboard
+
+Learning the main features of Next.js by building a full-stack web application.
+
 ## Next.js App Router Course - Starter
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
